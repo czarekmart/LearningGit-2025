@@ -1,0 +1,5 @@
+// Connect to an existing repository
+cd /d/repos
+git clone https://github.com/czarekmart/LearningGit-2025 [alternate-directory]
+git add FistCommand.txt
+
