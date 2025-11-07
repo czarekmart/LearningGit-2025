@@ -15,4 +15,11 @@ git push -u origin main
 :: Add and commit together
 git commit -am "Your commit message"
 
+:: Brings remote to your local repo
+:: git fetch
+
+:: Brings remote, if any, plus local repo to your working directory
+git pull
+
+
 
