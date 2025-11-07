@@ -2,4 +2,17 @@
 cd /d/repos
 git clone https://github.com/czarekmart/LearningGit-2025 [alternate-directory]
 git add FistCommand.txt
+:: edit the file
+:: stage it now
+git add FistCommand.txt
+
+:: commit it 
+git commit -m "comment"
+
+:: push to remote
+git push -u origin main
+
+:: Add and commit together
+git commit -am "Your commit message"
+
 
